@@ -6,6 +6,4 @@ Discord: Lei#5550
 
 Enmity Themes I Manage:
 
-```markdown
 [Sultan](https://raw.githubusercontent.com/Leizurly/discord-sultan/main/sultan.json))
-```
