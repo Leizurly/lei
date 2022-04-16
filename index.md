@@ -9,6 +9,6 @@ Discord: Lei#5550
 Enmity Themes I Manage:
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/leizurly/discord-sultan/packages" data-icon="octicon-package" aria-label="Install this package lei/discord-sultan on GitHub">Install this package</a>
+<a class="github-button" href="https://raw.githubusercontent.com/Leizurly/discord-sultan/main/sultan.json" data-icon="octicon-package" aria-label="Install this package lei/discord-sultan on GitHub">Install This Theme</a>
 
 [Sultan](https://raw.githubusercontent.com/Leizurly/discord-sultan/main/sultan.json)
